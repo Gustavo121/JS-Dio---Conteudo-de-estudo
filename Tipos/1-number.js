@@ -8,7 +8,7 @@ console.log('Número transformado em string: ', typeof numberAsString);
 const fixedTwoDecimals = myNumber.toFixed(2);
 console.log('\nNúmero com duas casas decimais:', fixedTwoDecimals);
 
-// Transforma uma strinf em float
+// Transforma uma string em float
 console.log('\nString parseada para float:', parseFloat('13.22'));
 
 // Transforma uma string em int
