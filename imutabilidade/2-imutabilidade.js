@@ -14,7 +14,7 @@ const students = [
 ];
 
 function getApprovedStundets(stundentsList) {
-    return studentsList.filter(student => student.grade >= 7);    
+    return studentsList.filter(students => students.grade >= 7);    
 }
 
 console.log('Alunos aprovados:');
