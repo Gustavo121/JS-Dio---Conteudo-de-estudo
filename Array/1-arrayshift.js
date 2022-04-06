@@ -5,3 +5,6 @@ console.log(removedItem);
 // 'banana'
 console.log(arr);
 // ['melancia', 'abacate'];
+
+
+// remove a primeira posição

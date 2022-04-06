@@ -14,3 +14,5 @@ console.log(numbersAndStrings)
 const arrWith3Positions = Array(3);
 
 console.log(arrWith3Positions)
+
+// cria um array apartir dos numeros de parametro informados
