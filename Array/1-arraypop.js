@@ -4,4 +4,4 @@ frutas.pop()
 
 console.log(frutas)
 
-// com pop você mostra a ultima posição do array
+// com pop você mostra a ultima posição do array e remove
